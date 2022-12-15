@@ -76,4 +76,3 @@ No modules.
 
 - Make index.html show pets instead of hashicorp coffee cups.
 - Utilise a random number to be injected into javascript inside index.html
-- Testing
