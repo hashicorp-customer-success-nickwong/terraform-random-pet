@@ -1,4 +1,4 @@
-name: Release to terraform public registry
+name: Release to terraform registry
 
 on:
   push:
