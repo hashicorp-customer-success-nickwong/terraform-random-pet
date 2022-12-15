@@ -31,3 +31,5 @@ override.tf.json
 
 # index.html files
 *index.html
+
+.idea
