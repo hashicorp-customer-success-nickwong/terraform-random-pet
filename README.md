@@ -71,7 +71,6 @@ No modules.
 <!-- END_TF_DOCS -->
 
 
-
 ## Future Work
 
 - Make index.html show pets instead of hashicorp coffee cups.
