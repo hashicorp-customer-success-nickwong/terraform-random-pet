@@ -70,7 +70,6 @@ No modules.
 | <a name="output_random_string_output"></a> [random\_string\_output](#output\_random\_string\_output) | Random String generated |
 <!-- END_TF_DOCS -->
 
-
 ## Future Work
 
 - Make index.html show pets instead of hashicorp coffee cups.
